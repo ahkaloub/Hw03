@@ -1,0 +1,32 @@
+body {
+    font-family: 'Titillium Web', sans-serif;
+    background-color: navajowhite;
+    color: red;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+#intro h1 {
+    color: cornflowerblue;
+}
+
+#form-section form {
+    background-color: cornsilk;
+    padding: 15px;
+}
+
+footer {
+    background-color: darkcyan;
+    color: crimson;
+    text-align: center;
+    padding: 10px 0;
+}
